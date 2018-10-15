@@ -1,2 +1,2 @@
 # Learning-.NetCore
-First Expiriences with .NetCore. 
+First experiences with .NetCore 
